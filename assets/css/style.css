@@ -3,6 +3,11 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
+body {
+  font-family: "Roboto" sans-serif;
+}
+
 .navbar {
   background-color: #e8d8c9;
   color: #4b607f;
